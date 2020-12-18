@@ -1,7 +1,6 @@
 # SchoolHub
-A link hub for schools in my area (Cobb School District)
+Working on Improvements of NotCreative21's SchoolHub. I will be uploading all code to GitHub.
 
-this also contains a clone of my school's virtual solution
-it is more of a mock up of my version because i got bored and i want to code something
+Please contact me by joining my Discord server, or emailing me @ jacob@stevesworld.org
 
-Discord: NotCreative#1337
+https://discord.gg/KvcyPKb2AV
